@@ -1,9 +1,105 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 OPR/112.0.0.0" version="24.7.12">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36 OPR/113.0.0.0" version="24.7.12">
   <diagram name="Página-1" id="WHCyLK-mRgSYbWBLd6Ps">
-    <mxGraphModel>
+    <mxGraphModel dx="1009" dy="539" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="SNoKJFaguNimNV5DGoaw-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="SNoKJFaguNimNV5DGoaw-1" target="SNoKJFaguNimNV5DGoaw-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SNoKJFaguNimNV5DGoaw-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="SNoKJFaguNimNV5DGoaw-1" target="SNoKJFaguNimNV5DGoaw-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SNoKJFaguNimNV5DGoaw-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="SNoKJFaguNimNV5DGoaw-1" target="SNoKJFaguNimNV5DGoaw-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SNoKJFaguNimNV5DGoaw-1" value="Secretária&lt;div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="30" y="515" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="SNoKJFaguNimNV5DGoaw-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="SNoKJFaguNimNV5DGoaw-10" target="SNoKJFaguNimNV5DGoaw-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SNoKJFaguNimNV5DGoaw-10" value="&lt;div&gt;Médica&lt;/div&gt;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="760" y="515" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="SNoKJFaguNimNV5DGoaw-14" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="120" y="665" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="SNoKJFaguNimNV5DGoaw-24" value="" style="group" vertex="1" connectable="0" parent="SNoKJFaguNimNV5DGoaw-14">
+          <mxGeometry width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="SNoKJFaguNimNV5DGoaw-5" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="SNoKJFaguNimNV5DGoaw-24">
+          <mxGeometry width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="SNoKJFaguNimNV5DGoaw-13" value="Gerenciar Consulta" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="SNoKJFaguNimNV5DGoaw-24">
+          <mxGeometry y="25" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SNoKJFaguNimNV5DGoaw-21" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="120" y="505" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="SNoKJFaguNimNV5DGoaw-2" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="SNoKJFaguNimNV5DGoaw-21">
+          <mxGeometry width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="SNoKJFaguNimNV5DGoaw-15" value="Agendar Consulta" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="SNoKJFaguNimNV5DGoaw-21">
+          <mxGeometry x="10" y="25" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SNoKJFaguNimNV5DGoaw-22" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="120" y="360" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="SNoKJFaguNimNV5DGoaw-3" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="SNoKJFaguNimNV5DGoaw-22">
+          <mxGeometry width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="SNoKJFaguNimNV5DGoaw-16" value="Gerenciar Paciente" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="SNoKJFaguNimNV5DGoaw-22">
+          <mxGeometry x="5" y="25" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SNoKJFaguNimNV5DGoaw-23" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="560" y="665" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="SNoKJFaguNimNV5DGoaw-18" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="SNoKJFaguNimNV5DGoaw-23">
+          <mxGeometry width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="SNoKJFaguNimNV5DGoaw-19" value="Vincular Agendamentos" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="SNoKJFaguNimNV5DGoaw-23">
+          <mxGeometry x="30" y="25" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SNoKJFaguNimNV5DGoaw-25" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="450" y="505" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="SNoKJFaguNimNV5DGoaw-4" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="SNoKJFaguNimNV5DGoaw-25">
+          <mxGeometry width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="SNoKJFaguNimNV5DGoaw-17" value="Verificar Consulta" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="SNoKJFaguNimNV5DGoaw-25">
+          <mxGeometry x="30" y="25" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SNoKJFaguNimNV5DGoaw-29" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="450" y="360" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="SNoKJFaguNimNV5DGoaw-27" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="SNoKJFaguNimNV5DGoaw-29">
+          <mxGeometry width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="SNoKJFaguNimNV5DGoaw-28" value="Cadastrar Plano de Saúde" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="SNoKJFaguNimNV5DGoaw-29">
+          <mxGeometry x="25" y="25" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SNoKJFaguNimNV5DGoaw-32" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="310" y="585" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="SNoKJFaguNimNV5DGoaw-30" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="SNoKJFaguNimNV5DGoaw-32">
+          <mxGeometry width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="SNoKJFaguNimNV5DGoaw-31" value="Verificar Limite Consulta Mensalmente" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="SNoKJFaguNimNV5DGoaw-32">
+          <mxGeometry x="10" y="25" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SNoKJFaguNimNV5DGoaw-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;dashed=1;dashPattern=8 8;" edge="1" parent="1" source="SNoKJFaguNimNV5DGoaw-30" target="SNoKJFaguNimNV5DGoaw-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SNoKJFaguNimNV5DGoaw-37" value="&lt;i&gt;(Extends)&lt;/i&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="220" y="600" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SNoKJFaguNimNV5DGoaw-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;dashPattern=8 8;" edge="1" parent="1" source="SNoKJFaguNimNV5DGoaw-2" target="SNoKJFaguNimNV5DGoaw-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SNoKJFaguNimNV5DGoaw-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="SNoKJFaguNimNV5DGoaw-27" target="SNoKJFaguNimNV5DGoaw-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
